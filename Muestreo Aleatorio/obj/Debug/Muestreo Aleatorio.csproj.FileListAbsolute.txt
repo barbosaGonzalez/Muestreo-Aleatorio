@@ -1,0 +1,42 @@
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\bin\Debug\Muestreo Aleatorio.exe.config
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.csprojResolveAssemblyReference.cache
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.Form1.resources
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MAS.resources
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.Properties.Resources.resources
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.csproj.GenerateResource.Cache
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\bin\Debug\Muestreo Aleatorio.exe
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\bin\Debug\Muestreo Aleatorio.pdb
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.exe
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.pdb
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MASproporcion.resources
+c:\users\edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MAE.resources
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MAEproporcion.resources
+C:\Users\Edsel\documents\visual studio 2012\Projects\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.frmPrincipal.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\bin\Debug\Muestreo Aleatorio.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\bin\Debug\Muestreo Aleatorio.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\bin\Debug\Muestreo Aleatorio.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.frmPrincipal.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MAE.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MAEproporcion.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MAS.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MASproporcion.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.csproj.GenerateResource.Cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\bin\Debug\Muestreo Aleatorio.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\bin\Debug\Muestreo Aleatorio.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\bin\Debug\Muestreo Aleatorio.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.frmPrincipal.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MAE.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MAEproporcion.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MAS.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.MASproporcion.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo_Aleatorio.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Muestreo Aleatorio\Muestreo Aleatorio\obj\Debug\Muestreo Aleatorio.csproj.GenerateResource.Cache
